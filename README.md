@@ -7,6 +7,6 @@ Study Plan: https://elzero.org/study/mastering-python-study-plan/
 
 Assignments: https://elzero.org/category/assignments/python-assignments/
 
-Watched Videos => [ 23 From 152 ]
+Watched Videos => [ 25 From 152 ]
 
-![15%](https://progress-bar.dev/15/?title=progress)
+![16%](https://progress-bar.dev/16/?title=progress)
