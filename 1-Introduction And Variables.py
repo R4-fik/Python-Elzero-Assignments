@@ -10,7 +10,7 @@
 
 Name = "Madara"
 Age = "120"
-Country = "Konoha"
+Country = "out of Konoha"
 
 # ----------------------------
 #       Assignment 3
