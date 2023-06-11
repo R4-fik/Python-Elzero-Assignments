@@ -9,4 +9,4 @@ Assignments: https://elzero.org/category/assignments/python-assignments/
 
 Watched Videos => [ 32 From 152 ]
 
-![21%](https://progress-bar.dev/16/?title=progress)
+![21%](https://progress-bar.dev/21/?title=progress)
